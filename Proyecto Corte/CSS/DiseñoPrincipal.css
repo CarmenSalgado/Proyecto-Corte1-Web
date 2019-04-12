@@ -1,0 +1,83 @@
+ body{
+  background-color: ;
+  background-size: cover;
+  border-width: medium;
+  text-align: center;
+     }
+
+  .Logo{
+    margin: auto;
+    width: 1024px;
+    background-size: contain;
+    border-right-width: medium;
+    align-items: baseline;
+    background-position: center;
+       }
+
+  #registrardatos{
+    margin-bottom: auto;
+    border-color: inherit;
+    align-content: space-between;
+    align-items: stretch;
+                 }
+
+  .Principal{
+    text-align: center;
+    background-color: #7DCEA1;
+    margin: auto;
+            }
+  .Navegador{
+    align-items: center;
+    margin-right:  auto;
+    border: 5px;
+    border-color: inherit;
+            }
+            #Estilo{
+              text-indent: 30%;
+              text-indent: 50px;
+              text-align: center;
+                   }
+  .Ini{
+    text-align: center;
+      }
+      #Estiloh{
+        text-align:center;
+        background-color:#7DCEA0;
+              }
+      #Estilop{
+        text-align: justify;
+        text-decoration-color: ;
+              }
+.Loc{
+  text-align: center;
+    }
+    #Estiloh{
+      text-align:center;
+      background-color:#7DCEA0;
+            }
+    #Estilop{
+      text-align: justify;
+      text-decoration-color: ;
+            }
+.CYT{
+  text-align: center;
+    }
+    #Estiloh{
+      text-align:center;
+      background-color:#7DCEA0;
+            }
+    #Estilop{
+      text-align: justify;
+      text-decoration-color: ;
+            }
+.Sald{
+  text-align: center;
+    }
+    #Estiloh{
+      text-align:center;
+      background-color:#7DCEA0;
+            }
+    #Estilop{
+      text-align: justify;
+      text-decoration-color: ;
+            }
